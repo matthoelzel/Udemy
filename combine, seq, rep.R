@@ -25,4 +25,7 @@ d
 
 x <- c(80,20)
 y <- rep(x, 10)
+x
 y
+
+#added for testing purposes
