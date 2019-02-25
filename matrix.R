@@ -1,7 +1,3 @@
-
-
-
-
 #matrix
 my.data <- 1:20
 my.data
